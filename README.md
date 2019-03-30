@@ -1,4 +1,5 @@
 # 高并发笔记
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg"></a>
 
 ![](http://pp631mwfb.bkt.clouddn.com/%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8.jpg)
 
